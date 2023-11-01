@@ -9,3 +9,5 @@ sarakts2=[]
 
 def pievienot(uzvards):
     return "Dr. " + uzvards
+saraksts2=list(map(pievienot,saraksts1))
+print(saraksts2)
