@@ -4,7 +4,7 @@ katram saraksta(virknes) loceklim.
 
 """
 
-saraksts1=["2", "5", "7", "9"]
+saraksts1=[2, 6, 7, 4]
 sarakts2=[]
 def pieskaitit(skaitlis):
     return skaitlis + 2
